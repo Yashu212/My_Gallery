@@ -1,0 +1,2 @@
+# My_Gallery
+An elegantly designed website meticulously crafted using HTML and CSS grid to showcase a curated collection of my favorite images. This platform serves as a visual gallery where each image has been thoughtfully selected to captivate and engage the viewer. Through careful design and layout, this website aims to provide a visually appealing and immersive experience, inviting visitors to appreciate the beauty and artistry captured within these cherished photographs.
